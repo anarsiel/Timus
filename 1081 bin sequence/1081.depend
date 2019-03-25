@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1453032944 source:c:\users\Администратор\blagoi\programming\timus\#1081 bin sequence\main.cpp
-	<iostream>
-	<string>
-	<algorithm>
-	<vector>
-

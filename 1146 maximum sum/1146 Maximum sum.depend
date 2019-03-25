@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1452724204 source:c:\users\Администратор\blagoi\programming\timus\1146 maximum sum\main.cpp
-	<iostream>
-	<vector>
-	<algorithm>
-

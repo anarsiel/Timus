@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1452504806 source:c:\users\Администратор\blagoi\programming\timus\1126 magnetic storms\main.cpp
-	<iostream>
-	<vector>
-	<set>
-	<queue>
-

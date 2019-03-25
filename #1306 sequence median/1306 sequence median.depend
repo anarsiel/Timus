@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1452505766 source:c:\users\Администратор\blagoi\programming\timus\1306 sequence median\main.cpp
-	<iostream>
-	<vector>
-	<algorithm>
-	<cstdio>
-
