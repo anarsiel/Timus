@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452438790 source:c:\users\Администратор\blagoi\programming\dima\timus\1002 telephone_numbers\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

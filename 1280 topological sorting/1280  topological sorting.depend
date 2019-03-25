@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452715144 source:c:\users\Администратор\blagoi\programming\timus\1280  topological sorting\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

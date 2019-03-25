@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452433185 source:c:\users\Администратор\blagoi\programming\dima\timus\result_table\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
